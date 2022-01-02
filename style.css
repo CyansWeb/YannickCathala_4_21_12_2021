@@ -249,7 +249,7 @@ a:hover {
 .l-bloc h5 a:hover,
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
-    color: rgba(0, 0, 0, 1);
+    color: #f15912;
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -322,10 +322,13 @@ a:hover {
     z-index: 1;
 }
 
+
+/********************** Agrandissement Font NavLink ***********************/
+
 .nav>li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .navbar-nav .open .dropdown-menu>li>a {
@@ -443,6 +446,8 @@ nav .caret {
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    color: #2B0000;
+    font-size: 25px;
 }
 
 .btn {
@@ -710,7 +715,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -1039,4 +1044,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.row>h2 {
+    color: white;
+    font-size: 30px;
 }
