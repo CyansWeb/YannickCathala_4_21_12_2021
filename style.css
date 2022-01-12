@@ -259,11 +259,11 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.offset {
+.voffset {
     margin-top: 30px;
 }
 
-.offset-lg {
+.voffset-lg {
     margin-top: 80px;
 }
 
@@ -1007,13 +1007,13 @@ h4 {
     .btn-dwn {
         display: none;
     }
-    .offset {
+    .voffset {
         margin-top: 5px;
     }
-    .offset-md {
+    .voffset-md {
         margin-top: 20px;
     }
-    .offset-lg {
+    .voffset-lg {
         margin-top: 30px;
     }
     form {
